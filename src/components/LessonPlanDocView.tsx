@@ -306,7 +306,7 @@ export const LessonPlanDocView: React.FC<LessonPlanDocViewProps> = ({
         <div className={`pt-6 border-t flex flex-col sm:flex-row items-center justify-between text-[11px] gap-2 ${
           isDark ? 'border-white/10 text-zinc-400' : 'border-slate-200 text-slate-400'
         }`}>
-          <span>Generated via PlanCraft AI for Google Workspace</span>
+          <span>Generated via LessonForge AI for Google Workspace</span>
           <span>Page 1 of 1 • {lessonPlan.cohort || '8th Grade Science Cohort'}</span>
         </div>
       </div>

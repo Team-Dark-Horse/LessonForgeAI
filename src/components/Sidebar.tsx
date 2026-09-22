@@ -124,7 +124,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
                         isDark ? 'gold-gradient-text' : 'text-slate-900'
                       }`}
                     >
-                      PlanCraft AI
+                      LessonForge AI
                     </span>
                     <span
                       className={`text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.5 rounded shrink-0 ${

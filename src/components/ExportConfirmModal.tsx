@@ -89,7 +89,7 @@ export const ExportConfirmModal: React.FC<ExportConfirmModalProps> = ({
               <span className={`font-semibold px-2 py-0.5 rounded border ${
                 isDark ? 'bg-slate-800/60 border-slate-700 text-slate-200' : 'bg-white border-slate-200 text-slate-900'
               }`}>
-                📁 AI Lesson Planner /
+                📁 LessonForge AI /
               </span>
             </div>
           </div>

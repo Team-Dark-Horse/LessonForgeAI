@@ -812,7 +812,7 @@ export default function App() {
                   <label className={`font-bold block mb-1 ${isDark ? 'text-white' : ''}`}>Target Google Drive Folder:</label>
                   <input
                     type="text"
-                    defaultValue="/My Drive/PlanCraft AI/Science 8"
+                    defaultValue="/My Drive/LessonForge AI/Science 8"
                     className={`w-full p-2.5 rounded-xl border focus:outline-none ${
                       isDark ? 'gold-input' : 'bg-slate-50 border-slate-200 text-slate-900'
                     }`}

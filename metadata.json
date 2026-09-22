@@ -1,5 +1,5 @@
 {
-  "name": "AI Lesson Planner",
+  "name": "LessonForge AI",
   "description": "Automate end-to-end curriculum assets, lesson plans, student worksheets, and self-grading Google Forms directly into Google Workspace for educators.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

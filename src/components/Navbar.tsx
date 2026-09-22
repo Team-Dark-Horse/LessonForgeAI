@@ -27,7 +27,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
           <div>
             <div className="flex items-center gap-2">
-              <span className="font-bold text-lg text-slate-900 tracking-tight">AI Lesson Planner</span>
+              <span className="font-bold text-lg text-slate-900 tracking-tight">LessonForge AI</span>
               <span className="text-[11px] font-semibold uppercase tracking-wider bg-blue-50 text-blue-700 px-2 py-0.5 rounded-full border border-blue-200">
                 Workspace Edition
               </span>

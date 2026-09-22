@@ -168,7 +168,7 @@ export const ExportProgressModal: React.FC<ExportProgressModalProps> = ({
         <div className={`mt-5 pt-3 border-t flex items-center justify-between text-[11px] ${
           isDark ? 'border-slate-800 text-slate-400' : 'border-slate-200 text-slate-400'
         }`}>
-          <p className="italic">*Files will be saved in a new 'AI Lesson Planner' Drive folder.*</p>
+          <p className="italic">*Files will be saved in a new 'LessonForge AI' Drive folder.*</p>
           {onCancel && (
             <button
               onClick={onCancel}

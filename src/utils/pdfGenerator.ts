@@ -274,7 +274,7 @@ export function downloadLessonPlanPDF(lessonPlan: LessonPlanPayload): void {
     doc.setFontSize(8);
     doc.setTextColor(140, 140, 140);
     doc.text(
-      'PlanCraft AI  •  Westbrook Middle School EDU Curriculum Archive',
+      'LessonForge AI  •  Westbrook Middle School EDU Curriculum Archive',
       margin,
       pageHeight - 22
     );

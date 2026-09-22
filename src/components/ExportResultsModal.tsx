@@ -75,7 +75,7 @@ export const ExportResultsModal: React.FC<ExportResultsModalProps> = ({
                 Lesson Pack Successfully Created in Google Drive!
               </h3>
               <p className={`text-xs mt-0.5 ${isDark ? 'text-slate-400 font-medium' : 'text-emerald-100'}`}>
-                Saved to: My Drive &gt; PlanCraft AI &gt; Science 8 &gt; {parameters.topic.slice(0, 24)}...
+                Saved to: My Drive &gt; LessonForge AI &gt; Science 8 &gt; {parameters.topic.slice(0, 24)}...
               </p>
             </div>
           </div>
